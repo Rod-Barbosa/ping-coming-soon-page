@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Portfolio](https://gelatodigital.com/portfolio)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [rodrigos-ping-coming-soon-page.netlify.app/](https://rodrigos-ping-coming-soon-page.netlify.app/)
 
 ## My process
 
